@@ -32,15 +32,15 @@
 ---
 
 ```
-┌──────────────────────────────────────────┐
-│           TECH I WORK WITH               │
-│                                          │
-│   Languages    Python · JavaScript       │
-│   Frontend     HTML5 Canvas · CSS3       │
-│   GUI          Pygame · Tkinter          │
-│   APIs         Open-Meteo · REST         │
-│   Tools        Git · GitHub · VS Code    │
-└──────────────────────────────────────────┘
++------------------------------------------+
+|           TECH I WORK WITH               |
+|                                          |
+|   Languages    Python / JavaScript       |
+|   Frontend     HTML5 Canvas / CSS3       |
+|   GUI          Pygame / Tkinter          |
+|   APIs         Open-Meteo / REST         |
+|   Tools        Git / GitHub / VS Code    |
++------------------------------------------+
 ```
 
 ---
